@@ -1,4 +1,4 @@
-# Mnemonic-Seed-Bakcup
+# Mnemonic Seed Bakcup Templates
 Free templates for mnemonic seeds backup.
 
 > Important note! Prints have not been yet tested!!!
