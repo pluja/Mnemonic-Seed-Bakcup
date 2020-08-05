@@ -1,6 +1,7 @@
 # Mnemonic-Seed-Bakcup
-> Important note! Prints have not been yet tested!!!
 Free templates for mnemonic seeds backup.
+
+> Important note! Prints have not been yet tested!!!
 
 #### Available templates:
 * Monero templates
