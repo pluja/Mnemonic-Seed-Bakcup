@@ -1,8 +1,6 @@
 # Mnemonic Seed Bakcup Templates
 Free templates for mnemonic seeds backup.
 
-> Important note! Prints have not been yet tested!!!
-
 #### Available templates:
 * Monero templates
   * [30 word](Templates-pdf/30-word-mnemonic-backup.pdf)
