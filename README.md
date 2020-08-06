@@ -7,12 +7,19 @@ Free templates for mnemonic seeds backup.
 * Monero templates
   * [30 word](Templates-pdf/30-word-mnemonic-backup.pdf)
   * [25 word + block-height](Templates-pdf/24-word-mnemonic-backup-xmr.pdf)
+  
 * Bitcoin templates
-  * [12 word [+LN]](Templates-pdf/12-word-mnemonic-backup.pdf)
-  * [24 word [+LN]](Templates-pdf/24-word-mnemonic-backup.pdf)
-  * [30 word](Templates-pdf/30-word-mnemonic-backup.pdf)
+  * [12 word](Templates-pdf/12-word-seed-btc.pdf)
+  * [24 word](Templates-pdf/24-word-seed-btc.pdf)
+  * [12 word [+LN]](Templates-pdf/12-word-seed-btc-ln.pdf)
+  * [24 word [+LN]](Templates-pdf/24-word-seed-btc-ln.pdf)
+  * [30 word](Templates-pdf/30-word-seed-btc.pdf)
+  
 * Other templates
-  * [Shamir SLIP-39 template](Templates-pdf/shamir-backup.pdf)
+  * [Shamir SLIP-39 template](Templates-pdf/shamir-seed-general.pdf)
+  * [12 word](Templates-pdf/12-word-seed-general.pdf)
+  * [24 word](Templates-pdf/24-word-seed-general.pdf)
+  * [30 word](3Templates-pdf/30-word-seed-general.pdf)
   * Location backup template - Comes with each template.
   
   
